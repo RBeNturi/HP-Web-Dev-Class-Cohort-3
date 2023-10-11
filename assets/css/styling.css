@@ -1,0 +1,28 @@
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+th,td{
+    border: 2px solid cornflowerblue;
+    padding: 20px;
+    margin: 10px;
+}
+thead{
+    /*font-family:"Times New Roman";*/
+    font-size: 20px;
+    color: red;
+}
+body{
+    background-color: lightblue;
+    background-repeat: no-repeat;
+}
+h2{
+    text-align: center;
+    font-size: 30px;
+    color: orangered;
+}
+img{
+    display: block;
+    /*width: auto;*/
+    margin:0 auto;
+}
